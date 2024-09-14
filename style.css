@@ -1,0 +1,36 @@
+h1{
+background-color: mediumslateblue; color: midnightblue; border-radius: 30px; border: solid 3px red; text-align: center;
+}
+.text1{
+    background-color: yellow;
+}
+i{
+    color: red;
+}
+.title1{
+    color: green;
+}
+.title2{
+    background-color: yellow; color: green; text-align: center;
+}
+.title3{
+    color: green;
+}
+.t2{
+    background-color: rgb(105, 103, 247); width: 20%; height: 15%; color: white ;  font-size: 30px;
+}
+table{
+    border-collapse: collapse; width: 90%;
+}
+.k1{
+    background-color:green ; color: white;
+}
+.k2{
+    background-color: blue; color: white;
+}
+.k3{
+    background-color: red; color: white; 
+}
+.k4{
+    background-color: black; color: white;
+}
